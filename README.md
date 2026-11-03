@@ -8,10 +8,8 @@ Docente: Elfar Didier Morantes Sánchez
 
 | Integrante | Rol |
 | --- | --- |
-| [Integrante 1] | [Rol] |
-| [Integrante 2] | [Rol] |
-| [Integrante 3] | [Rol] |
-| [Integrante 4] | [Rol] |
+| Juan Sebastian Gomez Tovar
+| Sergio Andres Gutierrez Marin
 
 ## Problema
 
@@ -80,11 +78,3 @@ En la Entrega 3 todo el sistema se levantará con `docker compose up`.
 Git Flow: `main` (producción) · `develop` (integración) · `feature/HUxx-descripcion` (una rama por historia).
 Commits con Conventional Commits, por ejemplo `feat(propuestas): crear propuesta (HU04)`.
 
-## Cronograma
-
-| Fecha | Entrega | Contenido |
-| --- | --- | --- |
-| 05/11/2026 | Entrega 1 | SRS, UML inicial, backlog, repositorio, trazabilidad, video |
-| 12/11/2026 | Entrega 2 | CRUD, login, roles, Dockerfile, despliegue inicial, diagrama de secuencia |
-| 19/11/2026 | Entrega 3 | Microservicio Node.js, Swagger, IA, Docker Compose |
-| 26/11/2026 | ExpoUninpahu | Sustentación del producto final |
