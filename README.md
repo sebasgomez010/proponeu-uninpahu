@@ -73,8 +73,3 @@ En la Entrega 3 todo el sistema se levantará con `docker compose up`.
 - [Matriz de trazabilidad](docs/trazabilidad.md)
 - Diagramas UML: [casos de uso](docs/uml/casos_de_uso.png) · [componentes](docs/uml/componentes.png) · [despliegue](docs/uml/despliegue.png)
 
-## Flujo de trabajo
-
-Git Flow: `main` (producción) · `develop` (integración) · `feature/HUxx-descripcion` (una rama por historia).
-Commits con Conventional Commits, por ejemplo `feat(propuestas): crear propuesta (HU04)`.
-
