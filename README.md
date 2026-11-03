@@ -8,8 +8,8 @@ Docente: Elfar Didier Morantes Sánchez
 
 | Integrante | Rol |
 | --- | --- |
-| Juan Sebastian Gomez Tovar
-| Sergio Andres Gutierrez Marin
+| Juan Sebastian Gomez Tovar | Desarrollador
+| Sergio Andres Gutierrez Marin | Desarrollador
 
 ## Problema
 
